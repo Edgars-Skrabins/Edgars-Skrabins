@@ -20,7 +20,7 @@
   </td>
   <td valign="top">
     
-### 🛠️ Technologies & Software
+### 🛠️ Software
 - **Unity** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 - **Unreal Engine** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 - **Godot** ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
