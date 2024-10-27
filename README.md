@@ -30,5 +30,13 @@
 - **Blender** ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
   </td>
+  <td valign="top">
+    
+### 🔗 Links
+- [LinkedIn](https://www.linkedin.com/in/edgars-skrabins/)
+- [Itch.io](https://edgars-skrabins.itch.io/)
+- [ArtStation](https://www.artstation.com/edgars_skrabins)
+
+  </td>
 </tr>
 </table>
