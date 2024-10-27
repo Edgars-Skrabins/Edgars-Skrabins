@@ -33,9 +33,9 @@
   <td valign="top">
     
 ### 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/edgars-skrabins/)
-- [Itch.io](https://edgars-skrabins.itch.io/)
-- [ArtStation](https://www.artstation.com/edgars_skrabins)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgars-skrabins/)
+- [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://edgars-skrabins.itch.io/)
+- [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/edgars_skrabins)
 
   </td>
 </tr>
