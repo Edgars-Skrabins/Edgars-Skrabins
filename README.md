@@ -7,7 +7,7 @@
 <tr>
   <td valign="top">
     
-### Languages
+### 📚 Languages
 - **C++** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 - **C#** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 - **TypeScript** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
