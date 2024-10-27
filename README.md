@@ -1,3 +1,10 @@
 [![committers.top badge](https://user-badge.committers.top/latvia/Edgars-Skrabins.svg)](https://committers.top/latvia/Edgars-Skrabins)
 <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgars-Skrabins&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+- **C++** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+- **C#** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+- **TypeScript** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Ruby** ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+- **ShaderLab** ![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=flat&logo=unity&logoColor=white)
+- **CSS** ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+- **HTML** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
