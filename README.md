@@ -20,7 +20,7 @@
 ### 🛠️ Software
 - **Unity** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 - **Unreal Engine** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
-- **Godot** ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white
+- **Godot** ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
 - **Blender** ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 - **Adobe Substance Painter 3D** ![Substance Painter 3D](https://img.shields.io/badge/Substance%20Painter-FF6F00?style=flat&logo=adobe&logoColor=white)
 - **Marmoset Toolbag** ![Marmoset Toolbag](https://img.shields.io/badge/Marmoset%20Toolbag-231F20?style=flat&logo=marmoset&logoColor=white)
