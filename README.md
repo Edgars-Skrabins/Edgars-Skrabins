@@ -1,4 +1,4 @@
-🌐 **Full Stack Web Developer** | 🎮 **Game programmer** 
+🌐 **Full Stack Web Developer** | 🎮 **Game Programmer** 
 
 <table>
 <tr>
