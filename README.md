@@ -5,10 +5,10 @@
   <td valign="top">
     
 ### 📚 Languages
-- **C++** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 - **C#** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+- **C++** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 - **TypeScript** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Dart** ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 - **Ruby** ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 - **ShaderLab** ![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=flat&logo=unity&logoColor=white)
 - **CSS** ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -24,7 +24,6 @@
 - **Blender** ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 - **Adobe Substance Painter 3D** ![Substance Painter 3D](https://img.shields.io/badge/Substance%20Painter-FF6F00?style=flat&logo=adobe&logoColor=white)
 - **Marmoset Toolbag** ![Marmoset Toolbag](https://img.shields.io/badge/Marmoset%20Toolbag-231F20?style=flat&logo=marmoset&logoColor=white)
-- **Adobe Photoshop** ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
   </td>
   <td valign="top">
